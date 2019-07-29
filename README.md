@@ -1,6 +1,9 @@
 # simpleIG 
 Instagram account content on your site.
 
+## Update
+❗️ This function can slow down page loading speed now. Test it before usage please. ❗️ 
+
 ## Getting Started
 
 Load **simpleIG.php** or use function directly.  You need instagram account name and number of posts (default 5 newest).
@@ -22,6 +25,6 @@ function instagram($username = "instagram", $number = 5) {
 
 ## Returned data
 
-![enter image description here](http://www.marianmzigot.com/git/simpleIG/simpleIG.png)
+![Returned data](http://www.marianmzigot.com/git/simpleIG/simpleIG.png)
 
 
